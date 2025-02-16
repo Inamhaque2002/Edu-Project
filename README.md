@@ -180,4 +180,4 @@ Make your changes and submit a pull request.
 
 This project is licensed under the MIT License.
 
-## Made with 🤍 by Anwarul Haque
+## Made with 🤍 by Inamul Haque
